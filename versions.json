@@ -1,9 +1,9 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 11,
+    "build": 12,
     "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
-    "notes": "Рабочие цепочки (y1), фикс маршрута и утечки реального IP"
+    "notes": "Гарантированный захват трафика в TUN (split-default маршруты)"
   },
   "linux": {
     "version": "1.1.0",
