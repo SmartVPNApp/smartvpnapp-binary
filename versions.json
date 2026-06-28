@@ -1,9 +1,9 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 8,
+    "build": 9,
     "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
-    "notes": "Статистика трафика в реальном времени, проверка обновлений"
+    "notes": "Новый TUN-движок (LibXray), исправлено пропадание интернета"
   },
   "linux": {
     "version": "1.1.0",
