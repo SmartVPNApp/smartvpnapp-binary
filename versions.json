@@ -7,14 +7,14 @@
   },
   "linux": {
     "version": "1.1.0",
-    "build": 13,
+    "build": 14,
     "appimage_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.AppImage",
     "appimage_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-arm64.AppImage",
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
     "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-13.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-13.aarch64.rpm",
-    "notes": "LibXray-движок (как на iOS/Android): весь роутинг в xray-конфиге, рабочие цепочки"
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-14.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-14.aarch64.rpm",
+    "notes": "Linux: фикс имени TUN-устройства (tun0) — туннель реально поднимается"
   },
   "android": {
     "version": "1.1",
