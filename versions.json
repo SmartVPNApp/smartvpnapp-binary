@@ -1,13 +1,13 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 3,
+    "build": 4,
     "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
     "notes": "Статистика трафика в реальном времени, проверка обновлений"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 3,
+    "build": 4,
     "appimage_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.AppImage",
     "appimage_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-arm64.AppImage",
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
