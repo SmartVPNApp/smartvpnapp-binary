@@ -18,10 +18,10 @@
   },
   "android": {
     "version": "1.1",
-    "build": 14,
+    "build": 15,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": ""
+    "notes": "Рабочие цепочки (y1): роутинг полностью в xray-конфиге"
   },
   "ios": {
     "version": "1.1",
