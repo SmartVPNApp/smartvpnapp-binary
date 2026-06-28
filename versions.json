@@ -1,0 +1,31 @@
+{
+  "windows": {
+    "version": "1.1.0",
+    "build": 1,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
+    "notes": "Статистика трафика в реальном времени, исправления стабильности"
+  },
+  "linux": {
+    "version": "1.1.0",
+    "build": 1,
+    "appimage_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-amd64.AppImage",
+    "appimage_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-arm64.AppImage",
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-1.aarch64.rpm",
+    "notes": "Статистика трафика в реальном времени, исправления стабильности"
+  },
+  "android": {
+    "version": "1.1",
+    "build": 14,
+    "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
+    "notes": ""
+  },
+  "ios": {
+    "version": "1.1",
+    "build": 35,
+    "url": "https://apps.apple.com/app/smartvpn/id6745404382",
+    "notes": ""
+  }
+}
