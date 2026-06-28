@@ -12,8 +12,8 @@
     "appimage_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-arm64.AppImage",
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
     "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-1.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-1.aarch64.rpm",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-7.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-7.aarch64.rpm",
     "notes": "Статистика трафика в реальном времени, проверка обновлений"
   },
   "android": {
