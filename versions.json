@@ -1,29 +1,29 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 24,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-24.exe",
-    "notes": "Телеметрия: providerId-фолбэк + URL подписок"
+    "build": 25,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-25.exe",
+    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 24,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-24_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-24_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-24.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-24.aarch64.rpm",
-    "notes": "Телеметрия: providerId-фолбэк + URL подписок"
+    "build": 25,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-25_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-25_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-25.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-25.aarch64.rpm",
+    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
   },
   "android": {
     "version": "1.1",
-    "build": 20,
+    "build": 21,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Телеметрия: providerId-фолбэк + URL подписок"
+    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
   },
   "ios": {
     "version": "1.1",
-    "build": 46,
+    "build": 47,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
