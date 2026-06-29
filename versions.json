@@ -16,14 +16,14 @@
   },
   "android": {
     "version": "1.1",
-    "build": 23,
+    "build": 24,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
+    "notes": "Все smartvpn:// ссылки (add/addhw/crypt1) теперь распаковываются в форме добавления; для чужого устройства — понятная ошибка"
   },
   "ios": {
     "version": "1.1",
-    "build": 48,
+    "build": 49,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
