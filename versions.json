@@ -1,27 +1,27 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 18,
+    "build": 19,
     "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
-    "notes": "Цепочки/балансер полностью в xray-конфиге (клиент только funnel)"
+    "notes": "Фоновый чек-ин (телеметрия)"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 18,
+    "build": 19,
     "appimage_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.AppImage",
     "appimage_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0-arm64.AppImage",
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
     "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-18.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-18.aarch64.rpm",
-    "notes": "Цепочки/балансер полностью в xray-конфиге (клиент только funnel)"
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-19.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-19.aarch64.rpm",
+    "notes": "Фоновый чек-ин (телеметрия)"
   },
   "android": {
     "version": "1.1",
-    "build": 16,
+    "build": 17,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Светлая/тёмная темы + выбор в настройках"
+    "notes": "Фоновый чек-ин (телеметрия)"
   },
   "ios": {
     "version": "1.1",
