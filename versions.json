@@ -1,29 +1,29 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 25,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-25.exe",
-    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
+    "build": 26,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-26.exe",
+    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 25,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-25_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-25_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-25.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-25.aarch64.rpm",
-    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
+    "build": 26,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-26_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-26_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-26.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-26.aarch64.rpm",
+    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
   },
   "android": {
     "version": "1.1",
-    "build": 22,
+    "build": 23,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Исправлена установка обновления (скачивание APK внутри приложения) + авто-рефреш подписок в фоне"
+    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
   },
   "ios": {
     "version": "1.1",
-    "build": 47,
+    "build": 48,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
