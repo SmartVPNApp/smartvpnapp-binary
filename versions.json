@@ -1,18 +1,18 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 21,
+    "build": 22,
     "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0.exe",
-    "notes": "hwid-привязанные ссылки (addhw), X-AppBuild; AppImage убран"
+    "notes": "Фикс зависания (статистика теперь асинхронная, не блокирует UI)"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 21,
+    "build": 22,
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_amd64.deb",
     "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-21.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-21.aarch64.rpm",
-    "notes": "hwid-привязанные ссылки (addhw), X-AppBuild; AppImage убран"
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-22.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-22.aarch64.rpm",
+    "notes": "Фикс зависания (статистика теперь асинхронная, не блокирует UI)"
   },
   "android": {
     "version": "1.1",
