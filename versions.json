@@ -1,18 +1,18 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 26,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-26.exe",
-    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
+    "build": 27,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-27.exe",
+    "notes": "Поддержка smartvpn:// ссылок в форме добавления + понятная ошибка для чужого устройства"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 26,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-26_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-26_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-26.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-26.aarch64.rpm",
-    "notes": "Телеметрия: подписка обновляется до отправки (providerId/sub-url) + авто-рефреш в фоне"
+    "build": 27,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-27_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-27_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-27.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-27.aarch64.rpm",
+    "notes": "Поддержка smartvpn:// ссылок в форме добавления + понятная ошибка для чужого устройства"
   },
   "android": {
     "version": "1.1",
