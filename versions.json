@@ -16,10 +16,10 @@
   },
   "android": {
     "version": "1.1",
-    "build": 21,
+    "build": 22,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Авто-обновление подписок в фоне (catch-up + BGTask/WorkManager)"
+    "notes": "Исправлена установка обновления (скачивание APK внутри приложения) + авто-рефреш подписок в фоне"
   },
   "ios": {
     "version": "1.1",
