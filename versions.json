@@ -1,25 +1,25 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 28,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-28.exe",
-    "notes": "Уведомления/сообщения от сервера (инбокс + пуш)"
+    "build": 29,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-29.exe",
+    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 28,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-28_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-28_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-28.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-28.aarch64.rpm",
-    "notes": "Уведомления/сообщения от сервера (инбокс + пуш)"
+    "build": 29,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-29_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-29_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-29.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-29.aarch64.rpm",
+    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
   },
   "android": {
     "version": "1.1",
-    "build": 25,
+    "build": 26,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Уведомления/сообщения от сервера (инбокс + пуш)"
+    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
   },
   "ios": {
     "version": "1.1",
