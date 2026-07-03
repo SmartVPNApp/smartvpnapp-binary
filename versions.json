@@ -1,29 +1,29 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 33,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-33.exe",
-    "notes": "Авто-запуск установщика: Windows (NSIS/UAC) и Linux (pkexec) + прогресс"
+    "build": 34,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-34.exe",
+    "notes": "Fresh-install не спамит старыми сообщениями + Linux-иконка починена"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 33,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-33_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-33_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-33.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-33.aarch64.rpm",
-    "notes": "Авто-запуск установщика: Windows (NSIS/UAC) и Linux (pkexec) + прогресс"
+    "build": 34,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-34_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-34_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-34.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-34.aarch64.rpm",
+    "notes": "Fresh-install не спамит старыми сообщениями + Linux-иконка починена"
   },
   "android": {
     "version": "1.1",
-    "build": 29,
+    "build": 30,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Сообщения приходят на открытие приложения и в фоне (WorkManager/BGTask)"
+    "notes": "Fresh-install не спамит старыми сообщениями + Linux-иконка починена"
   },
   "ios": {
     "version": "1.1",
-    "build": 53,
+    "build": 54,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
