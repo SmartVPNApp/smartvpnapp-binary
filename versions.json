@@ -1,29 +1,29 @@
 {
   "windows": {
     "version": "1.1.0",
-    "build": 29,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-29.exe",
-    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
+    "build": 30,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.1.0-30.exe",
+    "notes": "Provider ID тремя способами: query ?providerid=, коммент #providerid в теле, заголовок"
   },
   "linux": {
     "version": "1.1.0",
-    "build": 29,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-29_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-29_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-29.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-29.aarch64.rpm",
-    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
+    "build": 30,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-30_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.1.0-30_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-30.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.1.0-30.aarch64.rpm",
+    "notes": "Provider ID тремя способами: query ?providerid=, коммент #providerid в теле, заголовок"
   },
   "android": {
     "version": "1.1",
-    "build": 26,
+    "build": 27,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Обновление geoip/geosite баз по заголовкам (все платформы)"
+    "notes": "Provider ID тремя способами: query ?providerid=, коммент #providerid в теле, заголовок"
   },
   "ios": {
     "version": "1.1",
-    "build": 50,
+    "build": 51,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
