@@ -16,14 +16,14 @@
   },
   "android": {
     "version": "1.1",
-    "build": 27,
+    "build": 28,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Provider ID тремя способами: query ?providerid=, коммент #providerid в теле, заголовок"
+    "notes": "Телеметрия читает providerId из хранилища (фикс фонового устаревания)"
   },
   "ios": {
     "version": "1.1",
-    "build": 51,
+    "build": 52,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
