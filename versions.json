@@ -16,14 +16,14 @@
   },
   "android": {
     "version": "1.1",
-    "build": 28,
+    "build": 29,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.1.0.apk",
-    "notes": "Телеметрия читает providerId из хранилища (фикс фонового устаревания)"
+    "notes": "Сообщения приходят на открытие приложения и в фоне (WorkManager/BGTask)"
   },
   "ios": {
     "version": "1.1",
-    "build": 52,
+    "build": 53,
     "url": "https://apps.apple.com/app/smartvpn/id6745404382",
     "notes": "Светлая/тёмная темы + выбор в настройках"
   }
