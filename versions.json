@@ -1,17 +1,17 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 35,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-35.exe",
+    "build": 36,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-36.exe",
     "notes": "SmartVPN 1.2 — сообщения и уведомления от провайдера в приложении; удобные обновления (установка в один клик + прогресс); стабильность и исправления"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 35,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-35_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-35_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-35.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-35.aarch64.rpm",
+    "build": 36,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-36_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-36_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-36.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-36.aarch64.rpm",
     "notes": "SmartVPN 1.2 — сообщения и уведомления от провайдера в приложении; удобные обновления (установка в один клик + прогресс); стабильность и исправления"
   },
   "android": {
