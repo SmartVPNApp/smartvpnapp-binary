@@ -16,10 +16,10 @@
   },
   "android": {
     "version": "1.2",
-    "build": 34,
+    "build": 39,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
-    "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-1.2.apk",
-    "notes": "SmartVPN 1.2 — сообщения и уведомления от провайдера в приложении; удобные обновления (установка в один клик + прогресс); стабильность и исправления"
+    "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk",
+    "notes": "SmartVPN 1.2 — безопасность и стабильность; мелкие исправления"
   },
   "ios": {
     "version": "1.2",
