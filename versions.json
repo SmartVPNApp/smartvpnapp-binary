@@ -1,18 +1,18 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 54,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-54.exe",
-    "notes": "SmartVPN 1.2 — исправлено сохранение настроек; автозапуск и автоподключение"
+    "build": 55,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-55.exe",
+    "notes": "SmartVPN 1.2 — брендирование провайдера; стабильность и исправления"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 54,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-54_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-54_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-54.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-54.aarch64.rpm",
-    "notes": "SmartVPN 1.2 — исправлено сохранение настроек; автозапуск и автоподключение"
+    "build": 55,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-55_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-55_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-55.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-55.aarch64.rpm",
+    "notes": "SmartVPN 1.2 — брендирование провайдера; стабильность и исправления"
   },
   "android": {
     "version": "1.2",
