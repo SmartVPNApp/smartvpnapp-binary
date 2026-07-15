@@ -16,7 +16,7 @@
   },
   "android": {
     "version": "1.2",
-    "build": 53,
+    "build": 44,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk",
     "notes": "SmartVPN 1.2 — все серверы подписки; IPv6 в туннель; обновление гео по ETag + плашка; выделение лога"
