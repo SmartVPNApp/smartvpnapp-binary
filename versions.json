@@ -1,25 +1,25 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 60,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-60.exe",
-    "notes": "SmartVPN 1.2 — исправлены статистика трафика и скорость соединения; иконка Windows"
+    "build": 61,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-61.exe",
+    "notes": "SmartVPN 1.2 — выделение части лога; скрытие нулевого трафика; IPv6 в туннель (Windows)"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 60,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-60_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-60_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-60.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-60.aarch64.rpm",
-    "notes": "SmartVPN 1.2 — исправлены статистика трафика и скорость соединения; иконка Windows"
+    "build": 61,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-61_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-61_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-61.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-61.aarch64.rpm",
+    "notes": "SmartVPN 1.2 — выделение части лога; скрытие нулевого трафика; IPv6 в туннель (Windows)"
   },
   "android": {
     "version": "1.2",
-    "build": 50,
+    "build": 51,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk",
-    "notes": "SmartVPN 1.2 — управление подписками, статистика времени под VPN, иконка для ТВ; исправления"
+    "notes": "SmartVPN 1.2 — исправлен краш при прокрутке; выделение части лога; иконка для ТВ"
   },
   "ios": {
     "version": "1.2",
