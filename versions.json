@@ -1,18 +1,18 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 57,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-57.exe",
-    "notes": "SmartVPN 1.2 — брендирование провайдера и Powered by; стабильность"
+    "build": 58,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-58.exe",
+    "notes": "SmartVPN 1.2 — подключение по vless://-подпискам; стабильность"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 57,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-57_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-57_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-57.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-57.aarch64.rpm",
-    "notes": "SmartVPN 1.2 — брендирование провайдера и Powered by; стабильность"
+    "build": 58,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-58_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-58_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-58.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-58.aarch64.rpm",
+    "notes": "SmartVPN 1.2 — подключение по vless://-подпискам; стабильность"
   },
   "android": {
     "version": "1.2",
