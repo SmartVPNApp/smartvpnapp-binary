@@ -2,8 +2,7 @@
   "windows": {
     "version": "1.2.0",
     "build": 64,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-64.exe",
-    "notes": "SmartVPN 1.2 — управление отображением подписки по активному провайдеру; стабильность и исправления"
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-64.exe"
   },
   "linux": {
     "version": "1.2.0",
@@ -11,20 +10,17 @@
     "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-64_amd64.deb",
     "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-64_arm64.deb",
     "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-64.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-64.aarch64.rpm",
-    "notes": "SmartVPN 1.2 — управление отображением подписки по активному провайдеру; стабильность и исправления"
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-64.aarch64.rpm"
   },
   "android": {
     "version": "1.2",
     "build": 55,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
-    "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk",
-    "notes": "SmartVPN 1.2 — промо-футер при пустом списке; управление отображением по активному провайдеру; стабильность и исправления"
+    "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk"
   },
   "ios": {
     "version": "1.2",
     "build": 55,
-    "url": "https://apps.apple.com/app/smartvpn/id6745404382",
-    "notes": "SmartVPN 1.2 — сообщения и уведомления от провайдера в приложении; удобные обновления (установка в один клик + прогресс); стабильность и исправления"
+    "url": "https://apps.apple.com/app/smartvpn/id6745404382"
   }
 }
