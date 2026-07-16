@@ -1,25 +1,25 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 63,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-63.exe",
-    "notes": "SmartVPN 1.2 — IPv6 в туннель; обновление гео-баз по ETag + плашка; управление подписками; выделение лога"
+    "build": 64,
+    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/SmartVPN-Setup-1.2.0-64.exe",
+    "notes": "SmartVPN 1.2 — управление отображением подписки по активному провайдеру; стабильность и исправления"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 63,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-63_amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-63_arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-63.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-63.aarch64.rpm",
-    "notes": "SmartVPN 1.2 — IPv6 в туннель; обновление гео-баз по ETag + плашка; управление подписками; выделение лога"
+    "build": 64,
+    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-64_amd64.deb",
+    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn_1.2.0-64_arm64.deb",
+    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-64.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.1.0/smartvpn-1.2.0-64.aarch64.rpm",
+    "notes": "SmartVPN 1.2 — управление отображением подписки по активному провайдеру; стабильность и исправления"
   },
   "android": {
     "version": "1.2",
-    "build": 44,
+    "build": 55,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk",
-    "notes": "SmartVPN 1.2 — все серверы подписки; IPv6 в туннель; обновление гео по ETag + плашка; выделение лога"
+    "notes": "SmartVPN 1.2 — промо-футер при пустом списке; управление отображением по активному провайдеру; стабильность и исправления"
   },
   "ios": {
     "version": "1.2",
