@@ -14,7 +14,8 @@
   },
   "android": {
     "version": "1.2",
-    "build": 57,
+    "build": 58,
+    "play_build": 54,
     "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
     "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SmartVPN.apk"
   },
