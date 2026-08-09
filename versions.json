@@ -21,7 +21,12 @@
   },
   "ios": {
     "version": "1.2",
-    "build": 55,
-    "url": "https://apps.apple.com/app/smproxy/id6783880283"
+    "build": 193,
+    "url": "https://apps.apple.com/ru/app/smproxy/id6783880283"
+  },
+  "macos": {
+    "version": "1.2.5",
+    "build": 191,
+    "url": "https://apps.apple.com/ru/app/smproxy/id6783880283?mt=12"
   }
 }
