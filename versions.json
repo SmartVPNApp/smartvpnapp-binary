@@ -1,32 +1,32 @@
 {
-  "windows": {
-    "version": "1.2.0",
-    "build": 130,
-    "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-130.exe"
-  },
-  "linux": {
-    "version": "1.2.0",
-    "build": 130,
-    "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130-amd64.deb",
-    "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130-arm64.deb",
-    "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130.aarch64.rpm"
-  },
-  "android": {
-    "version": "1.2",
-    "build": 250,
-    "play_build": 249,
-    "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
-    "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-250.apk"
-  },
-  "ios": {
-    "version": "1.2",
-    "build": 193,
-    "url": "https://apps.apple.com/ru/app/smproxy/id6783880283"
-  },
-  "macos": {
-    "version": "1.2.6",
-    "build": 204,
-    "url": "https://apps.apple.com/ru/app/smproxy/id6783880283?mt=12"
-  }
+    "windows": {
+        "version": "1.2.0",
+        "build": 130,
+        "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-130.exe"
+    },
+    "linux": {
+        "version": "1.2.0",
+        "build": 130,
+        "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130-amd64.deb",
+        "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130-arm64.deb",
+        "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130.x86_64.rpm",
+        "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-130.aarch64.rpm"
+    },
+    "android": {
+        "version": "1.2",
+        "build": 250,
+        "play_build": 249,
+        "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
+        "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-250.apk"
+    },
+    "ios": {
+        "version": "1.2.1",
+        "build": 210,
+        "url": "https://apps.apple.com/ru/app/smproxy/id6783880283"
+    },
+    "macos": {
+        "version": "1.2.6",
+        "build": 204,
+        "url": "https://apps.apple.com/ru/app/smproxy/id6783880283?mt=12"
+    }
 }
