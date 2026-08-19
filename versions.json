@@ -14,10 +14,10 @@
     },
     "android": {
         "version": "1.2",
-        "build": 250,
+        "build": 251,
         "play_build": 250,
         "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
-        "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-250.apk"
+        "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-251.apk"
     },
     "ios": {
         "version": "1.2.1",
