@@ -1,16 +1,16 @@
 {
   "windows": {
     "version": "1.2.0",
-    "build": 137,
-    "url": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-137.exe"
+    "build": 138,
+    "url": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-138.exe"
   },
   "linux": {
     "version": "1.2.0",
-    "build": 137,
-    "deb_x64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-137-amd64.deb",
-    "deb_arm64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-137-arm64.deb",
-    "rpm_x64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-137.x86_64.rpm",
-    "rpm_arm64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-137.aarch64.rpm"
+    "build": 138,
+    "deb_x64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-138-amd64.deb",
+    "deb_arm64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-138-arm64.deb",
+    "rpm_x64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-138.x86_64.rpm",
+    "rpm_arm64": "https://github.com/SMProxy/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-138.aarch64.rpm"
   },
   "android": {
     "version": "1.2",
