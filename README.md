@@ -1,20 +1,32 @@
-# SMProxy
+# SMProxy App
 
-A fast, free, cross-platform VPN client for VLESS / Xray servers.
+**A fast and simple VPN client for VLESS, Reality, VMess, Trojan, Shadowsocks and WireGuard — on every device you own.**
 
 ### 🌐 Website — **https://smproxy.com**
 
-SMProxy connects to **your own** server configuration — a standard VLESS/Xray config you already have from any provider or your own server. Import it by pasting a subscription link, scanning a QR code, or typing it in. SMProxy sells nothing, runs no servers, and has no in-app purchases — you bring your own config, the app just connects.
+SMProxy App is a client, the way a mail app is a client. It ships **no servers of its own** and has no built-in connection: you import a configuration from your own provider — by subscription link, QR code or manually — pick a server and connect in one tap. Connections are handled by the **Xray** core.
+
+No subscriptions to buy, no in-app purchases, no accounts.
+
+## Protocols
+
+**VLESS** · **Reality** · **VMess** · **Trojan** · **Shadowsocks** · **WireGuard** — broad protocol support on a single Xray core.
 
 ## Features
 
-- Native apps for **iOS, iPadOS, macOS, Apple TV, Android, Android TV, Windows, and Linux**
-- Import via subscription link, QR code, or clipboard
-- Smart routing — split traffic by domain, IP or CIDR, with built-in geoip/geosite rules
-- Powered by our own port of the **Xray** engine
-- Automatic subscription refresh, traffic statistics, and per-server ping
-- Phone-to-TV pairing for keyboard-free setup on the big screen
-- Light / dark themes
+- **All platforms** — iPhone, iPad, Mac, Apple TV, Android, Android TV, Windows and Linux, with a native interface on each
+- **Easy import** — add configs by link, QR code or manually; subscriptions refresh automatically
+- **Split routing** — send only what you choose through the tunnel, by domain, IP or CIDR (with geoip/geosite rules), and per-app on Android
+- **No added overhead** — the app doesn't slow down the connection your server provides
+- **Traffic statistics and per-server ping**, so you can pick the fastest node
+- **Phone-to-TV pairing** — keyboard-free setup on the big screen
+- **Light / dark themes**, English and Russian
+
+## Privacy
+
+- The app keeps **no logs** of your activity
+- Your configurations **stay on your device**
+- **No data shared** with third parties
 
 ## Download
 
@@ -22,13 +34,33 @@ SMProxy connects to **your own** server configuration — a standard VLESS/Xray 
 |----------|----------|
 | iOS · iPadOS · macOS · Apple TV | [**App Store**](https://apps.apple.com/ru/app/smproxy/id6783880283) |
 | Android · Android TV | [**Google Play**](https://play.google.com/store/apps/details?id=com.smartvpnru.app) |
-| Windows | [SMProxy-Setup.exe](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-Setup.exe) |
-| Linux · Debian/Ubuntu | [.deb (x64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-amd64.deb) · [.deb (arm64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-arm64.deb) |
-| Linux · Fedora/RHEL | [.rpm (x64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-x86_64.rpm) · [.rpm (arm64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-aarch64.rpm) |
-| Android APK (sideload) | [SMProxy.apk](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy.apk) |
+| Android APK (sideload, incl. Android TV) | [SMProxy.apk](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy.apk) |
+| Windows 10 & 11 · x64 | [SMProxy-Setup.exe](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy-Setup.exe) |
+| Linux · Debian/Ubuntu | [.deb (x86_64)](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy-amd64.deb) · [.deb (ARM64)](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy-arm64.deb) |
+| Linux · Fedora/RHEL | [.rpm (x86_64)](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy-x86_64.rpm) · [.rpm (ARM64)](https://github.com/SMProxy/smproxy-binary/releases/latest/download/SMProxy-aarch64.rpm) |
 
-All builds are also available on the [**Releases**](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest) page.
+Install on Linux from the terminal:
+
+```bash
+sudo dpkg -i ./SMProxy-amd64.deb    # Debian / Ubuntu, x86_64
+sudo rpm -U ./SMProxy-x86_64.rpm    # Fedora / RHEL, x86_64
+```
+
+Every build lives on the [**Releases**](https://github.com/SMProxy/smproxy-binary/releases/latest) page, with checksums in `SHA256SUMS.txt` and current version numbers in `versions.json`.
+
+## Getting started
+
+1. Get a configuration from your provider (subscription link, QR code or config file).
+2. Add it to the app — paste the link, scan the QR code or enter it manually.
+3. Choose a server and connect.
+
+Setup guides and FAQ: [smproxy.com](https://smproxy.com)
+
+## Support
+
+- Website — [smproxy.com](https://smproxy.com)
+- Issues with a build — [open an issue](https://github.com/SMProxy/smproxy-binary/issues)
 
 ---
 
-© Rb Media FZC LLC · [smproxy.com](https://smproxy.com)
+© RB Media FZC LLC · [smproxy.com](https://smproxy.com)
