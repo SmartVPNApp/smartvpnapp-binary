@@ -20,7 +20,7 @@ SMProxy connects to **your own** server configuration — a standard VLESS/Xray 
 
 | Platform | Download |
 |----------|----------|
-| iOS · iPadOS · macOS · Apple TV | [**App Store**](https://apps.apple.com/app/smartvpn/id6745404382) |
+| iOS · iPadOS · macOS · Apple TV | [**App Store**](https://apps.apple.com/ru/app/smproxy/id6783880283) |
 | Android · Android TV | [**Google Play**](https://play.google.com/store/apps/details?id=com.smartvpnru.app) |
 | Windows | [SMProxy-Setup.exe](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-Setup.exe) |
 | Linux · Debian/Ubuntu | [.deb (x64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-amd64.deb) · [.deb (arm64)](https://github.com/SmartVPNApp/smartvpnapp-binary/releases/latest/download/SMProxy-arm64.deb) |
