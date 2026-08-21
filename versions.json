@@ -2,22 +2,22 @@
     "windows": {
         "version": "1.2.0",
         "build": 136,
-        "url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-136.exe"
+        "url": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-Setup-1.2.0-136.exe"
     },
     "linux": {
         "version": "1.2.0",
         "build": 136,
-        "deb_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-136-amd64.deb",
-        "deb_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-136-arm64.deb",
-        "rpm_x64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-136.x86_64.rpm",
-        "rpm_arm64": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-1.2.0-136.aarch64.rpm"
+        "deb_x64": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-136-amd64.deb",
+        "deb_arm64": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-136-arm64.deb",
+        "rpm_x64": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-136.x86_64.rpm",
+        "rpm_arm64": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-1.2.0-136.aarch64.rpm"
     },
     "android": {
         "version": "1.2",
         "build": 252,
         "play_build": 252,
         "url": "https://play.google.com/store/apps/details?id=com.smartvpnru.app",
-        "apk_url": "https://github.com/SmartVPNApp/smartvpnapp-binary/releases/download/v1.2.0/SMProxy-252.apk"
+        "apk_url": "https://github.com/SmartVPNApp/smproxy-binary/releases/download/v1.2.0/SMProxy-252.apk"
     },
     "ios": {
         "version": "1.2.1",
