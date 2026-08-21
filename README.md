@@ -56,6 +56,21 @@ Every build lives on the [**Releases**](https://github.com/SMProxy/smproxy-binar
 
 Setup guides and FAQ: [smproxy.com](https://smproxy.com)
 
+## Support the project
+
+SMProxy App is free, has no ads and no in-app purchases. If it is useful to you, a donation helps keep development going. **USDT / USDC are preferred.**
+
+| Network | Address |
+|---------|---------|
+| **USDT/USDC · TRC-20** (Tron) | `TAayuwHP1cz5VxsNmVTE2dtkEiPZnTjbeH` |
+| **USDT/USDC · BEP-20** (BNB Smart Chain) | `0xa0C15221e3BA172CEC1D97a63a0bFCD6f81f19A2` |
+| **USDT/USDC · ERC-20** (Ethereum) | `0xC408F74434A382BaB2b80f236997CfbA017e230A` |
+| **USDT/USDC · Solana** | `D9kB6YrsPcrW1FrgqyuttaZRw3RHNeS5Dj28CqnsmRWh` |
+| **BTC** (SegWit) | `bc1qjvlc30t8unn9k9dan284c0y0602a05ks3snwa8` |
+| **LTC** (SegWit) | `ltc1qxg8qngw253885m0tm2w8luszmsag5yesh3k804` |
+
+⚠️ Always send on the matching network — funds sent to the wrong network cannot be recovered.
+
 ## Support
 
 - Website — [smproxy.com](https://smproxy.com)
